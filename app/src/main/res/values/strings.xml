@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SampleAuth</string>
+    <string name="newuser">NewUser Click Here To Register </string>
+    <string name="olduser">Already A User Click Here To SignIn</string>
+    <string name="hintentername">Enter Your Name</string>
+    <string name="hintmailid">Enter Your E-MailId</string>
+    <string name="hintPass">Set A Password</string>
+    <string name="hintnumber">Enter Your Phone No.</string>
+    <string name="btsignup">SignUp</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="nishi">nishi</string>
+    <string name="btsignin">Sign_IN</string>
+    <string name="DP">Profile_Pic</string>
+    <string name="EnterPass">Enter Your Password</string>
+    <string name="Signout">Signout</string>
+    <string name="contactmail">Mail_ID:</string>
+    <string name="contactphonw">Phone_No:</string>
+    <string name="SetDp">Upload</string>
+    <string name="Next">Next</string>
+    <string name="ShowName">Name:</string>
+    <string name="Blank">Your Name will be Displayed here</string>
+    <string name="Blank2">Your Email will be Displayed here</string>
+    <string name="Blank3">Your Phone Number will be Displayed</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">Login</string>
+    <string name="changepic">Change_Pic</string>
+    <string name="Reset">Forget Password Click Here to Reset</string>
+    <string name="btnReset">Reset Password</string>
+</resources>
